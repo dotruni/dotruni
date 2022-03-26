@@ -9,7 +9,7 @@ After that, I am in to data and believe this infinite possibilities 😁 and lov
 
 **[ Data analytics & Visualization ]** Tableau,Pandas, Plotly  (Advanced) 
 
-**[ Others ]** Scikit-learn, Tensorflow, 통계, English Negative , Learning from [Error](https://github.com/dotruni/TIL/tree/main/Error), NLP
+**[ Others ]** Scikit-learn, Tensorflow, 통계, English (Advanced) , Learning from [Error](https://github.com/dotruni/TIL/tree/main/Error), NLP
 
 ---
 
