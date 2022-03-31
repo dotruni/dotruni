@@ -42,7 +42,7 @@ After that, I am in to data and believe this infinite possibilities 😁 and lov
 ### [일리오 협업] 팬심 데이터 분석 및 인사이트 도출
 2022.03-04 
 -  20만 개의 비정형 언어 데이터 분석 및 influencer 마케팅 특징 도출 
-일리오(팬심): 유튜버, 셀럽과 팬 사이의 소통 및 친목 커뮤니티 지원 기업 
+- 일리오(팬심): 유튜버, 셀럽과 팬 사이의 소통 및 친목 커뮤니티 지원 기업 
 
 **[ 데이터 분석, 시각화, 자연어처리(NLP) 담당]** 
 - Python, Tableau 등을 활용한 데이터 분석 및 시각화, 한국어 NLP, 감정 분석, A/B Test 설계
