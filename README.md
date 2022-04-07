@@ -51,6 +51,7 @@ After that, I am in to data and believe this infinite possibilities 😁 and lov
 2022.02-03
 ✅[Target 마케팅 분석 대시보드 제작 (RFM Score,KPI 지표 등 시각화)](https://public.tableau.com/app/profile/.43405781/viz/RFMCustomerSegmentation_16457649669220/1)  
 
+### [Retention Analysis](https://public.tableau.com/app/profile/.43405781/viz/RetentionAnalysis_16493418461020/1_1) with Tableau
 ### 심리 상담 감성 챗봇 제작
 2022.01
 - 트랜스포머 모델을 활용하여 우울증 환자 심리 상담 챗봇 제작 프로젝트 기획
