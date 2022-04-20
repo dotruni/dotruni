@@ -1,2 +1,2 @@
 👋 Hi there! 
-[✏Blog](https://sowhatmylifeismine.tistory.com/?page=2)
+[✏Blog](https://https://sowhatmylifeismine.tistory.com/)
